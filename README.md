@@ -43,7 +43,7 @@ They can:
 =Log keystrokes (including passwords).
 =Spread malware to other devices.
 
-**8. For your deliverable:
+**8. For your deliverable:**
 None of the extensions were suspicious so no need to remove any till date 
 
 **Pro Tip:** Keep extensions to the bare minimum — fewer add-ons means fewer potential attack points.
